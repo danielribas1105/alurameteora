@@ -5,3 +5,21 @@
 .divs-facilidades{
     width: 180px;
 }
+
+.text-facilidades{
+    color: #DAFF01;
+}
+
+.botao-lilas{
+    background-color: #9353FF !important;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
